@@ -1,0 +1,13 @@
+C:\Prog2\SisVet\SisVet.Repositorie\bin\Debug\netcoreapp3.1\SisVet.Repositorie.deps.json
+C:\Prog2\SisVet\SisVet.Repositorie\bin\Debug\netcoreapp3.1\SisVet.Repositorie.dll
+C:\Prog2\SisVet\SisVet.Repositorie\bin\Debug\netcoreapp3.1\SisVet.Repositorie.pdb
+C:\Prog2\SisVet\SisVet.Repositorie\bin\Debug\netcoreapp3.1\SisVet.Model.dll
+C:\Prog2\SisVet\SisVet.Repositorie\bin\Debug\netcoreapp3.1\SisVet.Model.pdb
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.csproj.AssemblyReference.cache
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.AssemblyInfoInputs.cache
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.AssemblyInfo.cs
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.csproj.CoreCompileInputs.cache
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.csproj.CopyComplete
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.dll
+C:\Prog2\SisVet\SisVet.Repositorie\obj\Debug\netcoreapp3.1\SisVet.Repositorie.pdb
