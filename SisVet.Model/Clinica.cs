@@ -13,5 +13,14 @@ namespace SisVet.Model
         public Endereco Endereco { get; set; }
 
         public ICollection<Atendimento> Atendimentos { get; set; } = new List<Atendimento>();
+
+        public Clinica(int id)
+        {
+            Id = id;
+        }
+
+        public Clinica()
+        {
+        }
     }
 }

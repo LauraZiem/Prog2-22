@@ -8,5 +8,14 @@
         public string Email { get; set; }
         public string Telefone { get; set; }
         public int EnderecoId { get; set; }
+
+        public Cliente(int id)
+        {
+            Id = id;
+        }
+
+        public Cliente()
+        {
+        }
     }
 }

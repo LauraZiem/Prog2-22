@@ -14,10 +14,11 @@ namespace SisVet.Repositorie
         {
             Veterinario veterinario = new Veterinario(veterinarioId);
 
-            // Buscar dad0os do bd
+            // Buscar dados do bd
 
             if(veterinarioId == 1)
             {
+                veterinario.Id = 1;
                 veterinario.Nome = "Laura";
                 veterinario.Sobrenome = "Ziem";
                 veterinario.Srv = "123456";

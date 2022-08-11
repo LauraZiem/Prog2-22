@@ -13,5 +13,14 @@ namespace SisVet.Model
         public int AnimalId { get; set; }
         public Animal Animal{ get; set; }
         public int ProcedimentoId { get; set; }
+
+        public Atendimento(int id)
+        {
+            Id = id;
+        }
+
+        public Atendimento()
+        {
+        }
     }
 }
