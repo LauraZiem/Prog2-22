@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Comentário
+using System;
 using System.Collections.Generic;
 
 namespace SisVet.Model
